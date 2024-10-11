@@ -1,4 +1,4 @@
-# alpha-brain
+# Synthetic MRI
 
 ## Dataset Process
 
